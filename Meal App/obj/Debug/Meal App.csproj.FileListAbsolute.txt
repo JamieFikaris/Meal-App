@@ -1,0 +1,58 @@
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Meal App.exe.config
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Meal App.exe
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Meal App.pdb
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\App.g.cs
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App_MarkupCompile.cache
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App_MarkupCompile.lref
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.g.resources
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal_App.Properties.Resources.resources
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.csproj.GenerateResource.Cache
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.exe
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.pdb
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.csprojResolveAssemblyReference.cache
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Splash Window\View\SplashWindow.g.cs
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Splash Window\View\SplashWindow.baml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Set Budget Window\View\SetBudgetWindow.g.cs
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Set Budget Window\View\SetBudgetWindow.baml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Main Window\View\MainWindow.g.cs
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Main Window\View\MainWindow.baml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\EntityFramework.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Sqlite Functions.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\EntityFramework.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Sqlite Functions.pdb
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Information Window\View\InfoWindow.g.cs
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Information Window\View\InfoWindow.baml
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Meal App.exe.manifest
+C:\Users\Jamie PC\Videos\Meal App\Meal App\bin\Debug\Meal App.application
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.exe.manifest
+C:\Users\Jamie PC\Videos\Meal App\Meal App\obj\Debug\Meal App.application
